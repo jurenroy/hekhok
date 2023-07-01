@@ -1,0 +1,41 @@
+.wonderful{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.kunti{
+    background-color: #535050;
+    height: 300px;
+    width: 300px; 
+    margin-top: -800px;
+    position: absolute;
+}
+.down{
+    display: flex;
+    flex-direction: row;
+}
+.down a{
+    margin-left: 20px;
+    margin-right: 60px;
+}
+
+button{
+    height: 40px;
+    width: 90px;
+    background-color: blue;
+    color: white;
+}
+input{
+    height: 30px;
+    width: 86%;
+    margin-left: 7%;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+img{
+    width: 100%;
+    height: 100vh;
+}
